@@ -1,4 +1,4 @@
 FROM dockersamples/static-site
-ENV AUTHOR="tomoki.horio"
+ENV AUTHOR="Tomoki Horio"
 
 
